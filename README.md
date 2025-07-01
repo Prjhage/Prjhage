@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Student in **Computer Engineering** at [@PCCOE](https://pccoepune.com)
-- 🤝 Love to collaborate on full-stack and open-source projects
+- 🤝 Love to collaborate on frontend and open-source projects
   
 
 
