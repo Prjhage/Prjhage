@@ -1,20 +1,33 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=PRAJWAL%20HAGE&fontSize=54&fontColor=00f5d4&fontAlignY=38&animation=fadeIn&desc=%E2%9A%99%EF%B8%8F%20Building%20Autonomous%20AI%20Agents%20%E2%9A%99%EF%B8%8F&descSize=18&descAlignY=60&descColor=c9b6ff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=PRAJWAL%20HAGE&fontSize=54&fontColor=00f5d4&fontAlignY=38&animation=fadeIn&desc=MERN%20Stack%20Developer%20%C3%97%20Agentic%20AI%20Builder&descSize=20&descAlignY=60&descColor=c9b6ff" alt="header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=720&height=50&lines=%3E+agent.boot()+...+%E2%9C%85;%3E+planning+%E2%86%92+tool_call+%E2%86%92+observe+%E2%86%92+reflect;%3E+Hey%2C+I'm+Prajwal+%E2%80%94+Full-Stack+%C3%97+Agentic+AI+Dev;%3E+turning+LLMs+into+agents+that+actually+do+things+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=780&height=50&lines=%3E+npm+run+dev+%26%26+agent.boot()+...+%E2%9C%85;%3E+MongoDB+%E2%86%92+Express+%E2%86%92+React+%E2%86%92+Node+%E2%86%92+AI+Agents;%3E+Hey%2C+I'm+Prajwal+%E2%80%94+MERN+Stack+%C3%97+Agentic+AI+Dev;%3E+planning+%E2%86%92+tool_call+%E2%86%92+observe+%E2%86%92+reflect;%3E+building+full-stack+apps+and+agents+that+actually+ship+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00f5d4?style=for-the-badge&labelColor=0f0c29" />
-  <img src="https://img.shields.io/badge/MODE-AUTONOMOUS-9b5de5?style=for-the-badge&labelColor=0f0c29" />
-  <img src="https://img.shields.io/badge/LOOP-ReAct-f15bb5?style=for-the-badge&labelColor=0f0c29" />
+  <img src="https://img.shields.io/badge/STACK-MERN-47A248?style=for-the-badge&labelColor=0f0c29&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-AGENTIC-9b5de5?style=for-the-badge&labelColor=0f0c29" />
+  <img src="https://img.shields.io/badge/SKILL-DSA-f15bb5?style=for-the-badge&labelColor=0f0c29" />
   <img src="https://komarev.com/ghpvc/?username=Prjhage&label=PROFILE+PINGS&color=00bbf9&style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-302b63?style=flat-square" />
+  <img src="https://img.shields.io/badge/MCP-9b5de5?style=flat-square" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
+
 ---
+
 
 ## 🧠 `agent.profile`
 
