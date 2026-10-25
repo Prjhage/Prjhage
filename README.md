@@ -36,25 +36,7 @@ class Prajwal(Agent):
 
 ---
 
-## 🔄 My Agent Loop (how I work)
-
-```mermaid
-flowchart LR
-    A([🎯 Goal]) --> B[🧩 Plan]
-    B --> C[🛠️ Call Tool / MCP]
-    C --> D[👀 Observe]
-    D --> E{✅ Done?}
-    E -- No --> F[🪞 Reflect & Re-plan]
-    F --> B
-    E -- Yes --> G([🚀 Ship it])
-    style A fill:#302b63,stroke:#00f5d4,color:#fff
-    style G fill:#302b63,stroke:#f15bb5,color:#fff
-    style E fill:#24243e,stroke:#9b5de5,color:#fff
-```
-
----
-
-## 🧰 Agent Toolkit
+## 🧰 Toolkit
 
 ### 🤖 Agentic AI Stack
 <p>
@@ -126,19 +108,69 @@ flowchart LR
 ---
 
 
-## 🤖 Featured Agents (Projects)
+## 🤖 Featured Projects
 
-<!-- 👇 Replace these with your real projects! -->
-| Agent | What it does | Stack |
-|:--|:--|:--|
-| 🕵️ **ResearchBot** | Searches the web, reads sources, writes summaries | `LangGraph` `FastAPI` `Tavily` |
-| 📚 **DocuMind** | Chat with your PDFs using RAG | `LangChain` `ChromaDB` `React` |
-| 🔌 **MCP-Hub** | Custom MCP server exposing tools to LLM clients | `MCP` `Python` `Node.js` |
-| 🌐 **Portfolio v2** | Personal site with an AI assistant | `Next.js` `Tailwind` |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> 💡 *Pin your best 4–6 repos on your profile and link them above.*
+### 🛡️ [VulnFixer](https://github.com/Prjhage/VulnFixer)
+**AI-Powered Dependency Vulnerability Remediation Platform**
+
+An end-to-end autonomous security agent. It scans `requirements.txt` & `package.json`, pulls live advisories from **OSV.dev**, spins up isolated workspaces, applies targeted semver upgrades, runs validation tests, and waits at a **zero-trust Human-In-The-Loop gate** before opening a GitHub PR.
+
+![LangGraph](https://img.shields.io/badge/LangGraph-302b63?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-9b5de5?style=flat-square)
+![OSV.dev](https://img.shields.io/badge/OSV.dev-f15bb5?style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [Engineering Knowledge & Debugging Platform](https://github.com/Prjhage/Grandel)
+**Codebase intelligence + automated root-cause diagnostics**
+
+Ingests source code, architecture diagrams, docs, API specs & git history into a unified **Hybrid RAG** engine for grounded code navigation and hallucination-free debugging. Its primary target repo is the **Grandel** platform.
+
+![Hybrid RAG](https://img.shields.io/badge/Hybrid_RAG-f15bb5?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-302b63?style=flat-square)
+![Code Intelligence](https://img.shields.io/badge/Code_Intelligence-00bbf9?style=flat-square)
+![Git History](https://img.shields.io/badge/Git_History-F05032?style=flat-square&logo=git&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏨 [Grandel](https://github.com/Prjhage/Grandel)
+**AI-Powered Hotel & Travel Booking Platform**
+
+A next-gen booking and hospitality web app: stay reservations, **geospatial discovery**, **Razorpay** token payments, **QR-based check-in** verification, and a real-time **AI assistant grounded in platform data**.
+
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
+![Geospatial](https://img.shields.io/badge/Geospatial_Search-47A248?style=flat-square)
+![QR Check-in](https://img.shields.io/badge/QR_Check--in-000000?style=flat-square)
+![AI Assistant](https://img.shields.io/badge/AI_Assistant-9b5de5?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 [TNP AutoFill](https://github.com/Prjhage/TNP-AutoFill)
+**Chrome Extension for Placement Forms**
+
+Save your student profile once, and let the extension **auto-fill Training & Placement Google Forms** for every drive: personal, academic and professional details, no repeated typing.
+
+![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Google Forms](https://img.shields.io/badge/Google_Forms-7248B9?style=flat-square&logo=googleforms&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
+
 
 ## 📊 Telemetry (GitHub Stats)
 
