@@ -29,7 +29,7 @@
 ---
 
 
-## 🧠 `agent.profile`
+## 🧠 `Profile`
 
 ```python
 class Prajwal(Agent):
